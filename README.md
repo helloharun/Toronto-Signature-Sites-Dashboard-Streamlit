@@ -41,4 +41,7 @@ pip install -r requirements.txt
 - Data Source: [Toronto Open Data Portal](https://open.toronto.ca/dataset/toronto-signature-sites/)  
 - Libraries: [Streamlit](https://streamlit.io/), [Plotly](https://plotly.com/), [Pandas](https://pandas.pydata.org/)  
 
+## Live project link
+https://toronto-signature-sites-dashboard-app.streamlit.app/
+
 Thank you.
